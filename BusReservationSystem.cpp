@@ -1,12 +1,12 @@
 #include <conio.h>
 
-#include <stdio>
+#include <cstdio>
 
 #include <iostream>
 
 #include <string.h>
 
-#include <stdlib>
+#include <cstdlib>
 
 using namespace std;
 
